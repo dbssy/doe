@@ -1,30 +1,22 @@
 <h1 align="center">
   <img src=".github/logo.png" width="250px" />
-  <p>Toda doação é importante!</p>
-  <p align="center">
-    <a href="https://rocketseat.com.br">
-      <img alt="Made by Rocketseat" src="https://img.shields.io/badge/made%20by-Rocketseat-%23F7DF1E">
-    </a>
-    <img alt="License" src="https://img.shields.io/badge/license-MIT-%23F7DF1E">
-  </p>
 </h1>
+
+<h3 align="center">Informações Gerais</h3>
+
+<p align="center">
+  <a href="https://rocketseat.com.br">
+    <img alt="Made by Rocketseat" src="https://img.shields.io/badge/made%20by-Rocketseat-%23F7DF1E">
+  </a>
+  <img alt="License" src="https://img.shields.io/badge/license-MIT-%23F7DF1E">
+</p>
 
 <br>
 
-### :syringe: Doe!
+## 📝 Nota
 
-**Doação de sangue: O quê é?** <br><br>
-
-A doação de sangue é um gesto solidário de doar uma pequena quantidade do próprio sangue para salvar a vida de pessoas que se submetem a tratamentos e intervenções médicas de grande porte e complexidade, como transfusões, transplantes, procedimentos oncológicos e cirurgias.
-
-### :recycle: Como contribuir
-
-- Fork esse repositório;
-- Crie uma branch com a sua feature: `git checkout -b my-feature`
-- Commit suas mudanças: `git commit -m 'feat: My new feature'`
-- Push a sua branch: `git push origin my-feature`
-
-Após o merge do seu pull ser concluído, você pode deletar sua branch.
+A maratona dev teve o intuito de dar um start na vida das pessoas que procuram aprender programação, que pretendem iniciar neste mundo ou querem parar de procastinar. <br> 
+Fique à vontade para ler os códigos e entender o que está acontecendo por trás desta aplicação!
 
 ### :memo: Licença
 
