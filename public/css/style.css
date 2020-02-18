@@ -1,0 +1,153 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto:400,700&display=swap');
+
+* {
+  box-sizing: border-box;
+}
+
+html,
+body {
+  margin: 0;
+}
+
+body {
+  background-color: #f9f9f9;
+  height: 100vh;
+  font-family: 'Roboto', sans-serif;
+  display: flex;
+  flex-direction: column;
+}
+
+h1,
+h2 {
+  color: #000000cc;
+}
+
+header,
+main,
+footer {
+  text-align: center;
+}
+
+header,
+.form,
+main {
+  width: 90%;
+  max-width: 500px;
+  margin: 0px auto 70px;
+}
+
+header h1,
+main h2 {
+  margin-bottom: 70px;
+}
+
+header .logo {
+  width: 120px;
+  margin: 70px 0px;
+}
+
+header p {
+  font-size: 14px;
+}
+
+header button {
+  background-color: #ff4f4f;
+  color: white;
+  border: none;
+  border-radius: 4px;
+  margin-top: 8px;
+  padding: 8px 16px;
+  font-weight: bold;
+  cursor: pointer;
+}
+
+.form {
+  background-color: #ff4f4f;
+  border-radius: 6px;
+  padding: 16px 64px;
+  display: grid;
+  align-items: center;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 45px;
+}
+
+section.form {
+  transition: all 300ms ease;
+}
+
+section.form.hide {
+  opacity: 0;
+  visibility: hidden;
+  height: 0;
+  margin-top: -70px;
+}
+
+.form h2 {
+  text-align: right;
+  color: #ffffffee;
+  font-size: 18px;
+}
+
+form input,
+form button {
+  border: 1px solid #ffffff88;
+  border-radius: 4px;
+  width: 100%;
+  margin-bottom: 4px;
+  padding: 8px 16px;
+}
+
+form input {
+  background-color: transparent;
+  color: #ffffffaa;
+}
+
+form input::placeholder {
+  color: #ffffffaa;
+}
+
+form button {
+  cursor: pointer;
+  font-weight: bold;
+}
+
+main h2 span {
+  color: #ff4f4f;
+}
+
+.donors {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+}
+
+.blood {
+  color: #ff4f4f;
+  font-size: 12px;
+  font-weight: bold;
+  align-items: center;
+  justify-content: center;
+  display: flex;
+}
+
+.blood::before {
+  content: "";
+  background-color: #ff4f4f11;
+  border-radius: 50%;
+  border-top-right-radius: 0;
+  width: 40px;
+  height: 40px;
+  transform: rotate(-45deg);
+  position: absolute;
+  z-index: -1;
+}
+
+.donor p {
+  margin-top: 24px;
+  font-size: 14px;
+}
+
+footer {
+  border: 1px solid #eee;
+  margin-top: auto;
+  padding: 16px;
+}
