@@ -13,7 +13,7 @@
 
 ### :syringe: Doe!
 
-**Doação de sangue: O quê é?** <br><br>
+**Doação de sangue: O quê é?** <br>
 
 A doação de sangue é um gesto solidário de doar uma pequena quantidade do próprio sangue para salvar a vida de pessoas que se submetem a tratamentos e intervenções médicas de grande porte e complexidade, como transfusões, transplantes, procedimentos oncológicos e cirurgias.
 
