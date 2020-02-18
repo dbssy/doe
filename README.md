@@ -1,6 +1,6 @@
 <h1 align="center">
   <img src=".github/logo.png" width="250px" />
-  <p>Every donation is important</p>
+  <p>Toda doação é importante!</p>
   <p align="center">
     <a href="https://rocketseat.com.br">
       <img alt="Made by Rocketseat" src="https://img.shields.io/badge/made%20by-Rocketseat-%23F7DF1E">
