@@ -13,7 +13,7 @@
 
 <br>
 
-## 📝 Nota
+## 🗒️ Nota
 
 A maratona dev teve o intuito de dar um start na vida das pessoas que procuram aprender programação, que pretendem iniciar neste mundo ou querem parar de procastinar. <br> 
 Fique à vontade para ler os códigos e entender o que está acontecendo por trás desta aplicação!
