@@ -13,7 +13,8 @@
 
 ### :syringe: Doe!
 
-Doação de sangue: O quê é?. <br>
+**Doação de sangue: O quê é?** <br><br>
+
 A doação de sangue é um gesto solidário de doar uma pequena quantidade do próprio sangue para salvar a vida de pessoas que se submetem a tratamentos e intervenções médicas de grande porte e complexidade, como transfusões, transplantes, procedimentos oncológicos e cirurgias.
 
 ### :recycle: Como contribuir
@@ -25,12 +26,8 @@ A doação de sangue é um gesto solidário de doar uma pequena quantidade do pr
 
 Após o merge do seu pull ser concluído, você pode deletar sua branch.
 
----
-
 ### :memo: Licença
 
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
-
----
 
 Feito com :purple_heart: by [Rocketseat](https://rocketseat.com.br) & [João Debussy](https://github.com/dbssy) :wave:
